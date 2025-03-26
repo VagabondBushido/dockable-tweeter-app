@@ -22,6 +22,6 @@ cargo run
 ## Usage
 
 - The application will open a small window that stays on top of other windows
-- The default Twitter username is set to "VagabondBushido"
+- The default Twitter username is set to ""
 - You can change the username in the text field
 - Click "Open Twitter Profile" to open the Twitter profile in your default web browser 
